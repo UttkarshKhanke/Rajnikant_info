@@ -22,6 +22,6 @@ Route::get('/', function () {
 });
 
 Route::get('/about', [AboutController::class, 'index']);
-Route::get('/award', [AwardController::class, 'index']);
+Route::get('/awards', [AwardController::class, 'index']);
 Route::get('/contact', [ContactController::class, 'index']);
 Route::get('/history', [HistoryController::class, 'index']);
