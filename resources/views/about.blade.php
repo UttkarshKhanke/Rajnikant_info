@@ -1,12 +1,12 @@
 @extends('layout.app')
 
 @section('content')
-<header class="bg-blue-500 text-white text-center py-4">
+<header class="bg-blue-500 text-white text-center py-4" style="background-image: url('https://i1.wp.com/godofindia.com/wp-content/uploads/2017/05/rajinikanth-40.jpg'); background-size: cover; background-position: center; height: 100vh;">
+</header>
+
+<div class="container mx-auto mt-8 px-4">
+
     <h1 class="text-3xl font-bold">About Rajinikanth</h1>
-  </header>
-
-  <div class="container mx-auto mt-8 px-4">
-
     <section class="mb-6">
       <h2 class="text-2xl font-semibold">Early Life</h2>
       <p>Rajinikanth, born on December 12, 1950, in Bangalore, India, as Shivaji Rao Gaekwad, is a legendary Indian actor and cultural icon.</p>
@@ -46,5 +46,5 @@
 
   <footer class="bg-gray-200 py-4 text-xs text-gray-600 text-center">
     <p>Disclaimer: The information provided is accurate as of the last update in January 2022. Please verify from official sources for the latest details.</p>
-  </footer>
+</footer>
 @endsection

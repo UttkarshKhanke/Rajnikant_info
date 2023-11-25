@@ -1,3 +1,3 @@
 <footer>
-    <p>&copy; this is test footer</p>
+    <p>&copy; Uttkarsh Khanke</p>
 </footer>

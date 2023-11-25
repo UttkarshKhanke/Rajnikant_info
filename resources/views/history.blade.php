@@ -1,6 +1,8 @@
 @extends('layout.app')
 
 @section('content')
+<header class="bg-blue-500 text-white text-center py-4" style="background-image: url('https://tomatoheart.com/wp-content/uploads/2016/05/Kabali-Superstar-Rajnikant-Radhika-Apte-Tomatoheart-Awesome.jpg'); background-size: cover; background-position: center; height: 100vh;">
+</header>
 <div class="container mx-auto my-8 px-4">
 
     <h1 class="text-4xl font-bold mb-4">Rajinikanth - Indian Film Icon</h1>

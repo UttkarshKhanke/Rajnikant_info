@@ -1,7 +1,8 @@
 @extends('layout.app')
 
 @section('content')
-<div class="container mx-auto my-8 px-4">
+<div class="content" style="background-image: url('https://img.freepik.com/free-vector/realistic-award-with-lights-golden-confetti-trophy-with-figurine-holding-star-illustration_1284-55118.jpg?size=626&ext=jpg'); background-size: cover; background-position: center; height: 100vh;" >
+    <div class="content2" style="height: 100vh;width:100vw;background-color:rgba(249, 249, 249, 0.728)">
 
     <h1 class="text-3xl font-bold mb-4">Rajinikanth - Awards and Honors</h1>
 
@@ -25,5 +26,6 @@
 
     <p class="mb-4">These are just a few of the many awards and recognitions Rajinikanth has received over the course of his illustrious career. Keep in mind that the information provided here is based on my knowledge as of January 2022, and there may have been further developments or additional awards since then.</p>
 
-
+</div>
+</div>
 @endsection
