@@ -1,5 +1,5 @@
 <nav>
-    <ul class="flex w-96 justify-between">
+    <ul class="flex w-96 justify-between" >
         <li><a href="/">Home</a></li>
         <li><a href="history">History</a></li>
         <li><a href="awards">Awards</a></li>
