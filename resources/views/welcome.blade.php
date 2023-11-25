@@ -36,7 +36,7 @@
         <section>
             <h2 class="text-2xl font-semibold mb-4">Contact Us</h2>
             <p class="mb-4">Have questions or suggestions? Reach out to us!</p>
-            <a href="mailto:usk2004@gmail.com" class="text-blue-500 hover:underline">Contact Form</a>
+            <a href="mailto:usk01lswiftg@gmail.com" class="text-blue-500 hover:underline">Contact email</a>
         </section>
 
     </div>
